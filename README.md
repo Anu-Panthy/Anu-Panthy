@@ -1,6 +1,5 @@
-## Hi there 👋
-![Researcher Girl](https://media.giphy.com/media/2jPbJlhv7fmGJFJ7dZ/giphy.gif)
-
+## Hi there, it's me Anu 👋
+Discovering!
 🔬 Bioinformatics Researcher
 🧬 RNA-seq • Data Analysis
 
