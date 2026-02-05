@@ -1,7 +1,6 @@
 ## Hi there, it's me Anu 👋
 Discovering!
-🔬 Bioinformatics Researcher
-🧬 RNA-seq • Data Analysis
+🔬 Bioinformatics Researcher • Data Analysis
 
 <!--
 **Anu-Panthy/Anu-Panthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
