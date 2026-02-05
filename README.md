@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Researcher Girl](https://media.giphy.com/media/2jPbJlhv7fmGJFJ7dZ/giphy.gif)
+
 
 <!--
 **Anu-Panthy/Anu-Panthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
