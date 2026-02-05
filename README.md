@@ -1,8 +1,7 @@
 ## Hi there 👋
 ![Researcher Girl](https://media.giphy.com/media/2jPbJlhv7fmGJFJ7dZ/giphy.gif)
-### 👩‍🔬 Bioinformatics Researcher
-🧬 RNA-seq | 🧠 ML | 🧪 Data Analysis
-
+🔬 Bioinformatics Researcher
+🧬 RNA-seq • Data Analysis
 
 <!--
 **Anu-Panthy/Anu-Panthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
